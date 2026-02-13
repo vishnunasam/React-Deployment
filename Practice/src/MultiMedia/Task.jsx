@@ -6,9 +6,6 @@ function Task(){
       <img src="Photo.jpg"  /><br />
       <div>
         <audio src="audio.mp3" controls></audio>
-      </div> <br />
-      <div>
-        <video src="video.mp4" controls width={"500 px"}></video>
       </div>
         </>
     )   
